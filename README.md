@@ -36,7 +36,7 @@ Voici les branches utilisées et leur rôle :
 
 ## 2. Étapes Suivies et Commandes Git Utilisées
 
-Ce projet a été développé en suivant les étapes clés ci-dessous, en utilisant les commandes Git pertinentes pour gérer l'historique et les branches.
+Ce projet a été développé en suivant les étapes clés ci-dessous, en utilisant les commandes Git pertinentes pour gérer l'historiqu les branches.
 
 ### 2.1. Initialisation du Projet et du Dépôt
 
